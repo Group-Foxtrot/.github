@@ -13,8 +13,8 @@ This organisation was created to manage the *CS3028 Principles of Software Engin
 These roles were established and assigned based on each individual's self-identified strengths.
 
 ### Meeting Schedule
-*In-Person*: 09:00 - 11:00 BST Thursdays
-*Online*: TBC
+- *In-Person*: 09:00 - 11:00 BST Thursdays
+- *Online*: TBC
 
 ### Team Member Expectations
 To ensure the project runs as efficiently as possible, all team members are expected to adhere to the following list of expectations:
