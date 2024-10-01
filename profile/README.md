@@ -19,6 +19,29 @@ Working Name: *Simulacra*
 
 The team will be taking the existing simulator scene editor developed by the NDC and improving upon it (further details to be added following the client meeting on 03/10/2024).
 
+### Developer Housekeeping
+
+For any new feature to be worked on during a development sprint, an Issue should be raised and associated with the Product Iteration (PI) project, assigned into the backlog to be picked up and/or manually assigned to a developer.
+- **FOXTROT PI 1** is for CS3028 Semester 1 and consists of 4 two-week sprints commencing 03/10/2024.
+- **FOXTROT PI 2** is for CS3528 Semester 2 and consists of 4 two-week sprints commencing TBC.
+
+When working on an Issue in the backlog, developers should first run the following Git commands in their IDE:
+1. `git init`
+2. `git remote add origin 'https link to repository'`
+3. `git pull origin main`
+
+This ensures that developers are working on the same version of the main branch before continuing.
+
+Once developers have performed the above Git commands, they should create a Feature Branch using the naming convention *feature/featureName* and move to that branch using `git checkout -b newBranchName`.
+
+In this Feature Branch, developers are encouraged to commit frequently to ensure code integrity.
+
+After a feature has been implemented in its corresponding Feature Branch, a *Pull Request* should be made in the repository. In this PR, developers should ensure that a sufficiently detailed title is given alongside an in-depth description of the functionality implemented alongside any changes made to existing code (this helps the reviewer determine if there will be any merge conflicts). **Do _not_ force merges to the main branch under any circumstances**.
+
+Once the PR has been reviewed, it will be merged into the main branch, closing the Feature Branch. After this, use `git checkout -b main` to move to the main branch and then run `git pull origin main` to ensure the codebase is fully up-to-date before creating the next Feature Branch.
+
+*If in doubt about anything regarding merging into the main branch, contact either the Project Manager or Product Owner*.
+
 ### Meeting Schedule
 - *In-Person*: 09:00 - 11:00 BST Thursdays
 - *Online*: TBC
