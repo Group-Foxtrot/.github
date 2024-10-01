@@ -4,7 +4,7 @@
 This organisation was created to manage the *CS3028 Principles of Software Engineering*/*CS3528 Software Engineering and Professional Practice* project. In it, our group - Group Foxtrot - will work with the National Decommissioning Centre to work on the Simulation Editor for the Marine Simulator. This project is intended to strengthen not only our technical skills but also our soft skills.
 
 ### The Team
-- **Project Manager** -> John Dunbar
+- **Project Manager/SCRUM Master** -> John Dunbar
 - **Product Owner** -> Kieran Thursby
 - **Developers** -> Abdurrehman Sajid, Archie Mearns, Graham Murray, John Dunbar, Kieran Thursby, Mateusz Templin, Shaelen Fernandes
 - **Testers** -> John Dunbar
