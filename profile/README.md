@@ -12,6 +12,12 @@ This organisation was created to manage the *CS3028 Principles of Software Engin
 
 These roles were established and assigned based on each individual's self-identified strengths.
 
+### Project Overview
+
+Working Name: *Simulacra*
+
+The team will be taking the existing simulator scene editor developed by the NDC and improving upon it (further details to be added following the client meeting on 03/10/2024).
+
 ### Meeting Schedule
 - *In-Person*: 09:00 - 11:00 BST Thursdays
 - *Online*: TBC
