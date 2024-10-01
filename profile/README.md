@@ -1,7 +1,7 @@
 # CS3033 Group Foxtrot
 
 ## Organisation Overview
-This organisation was created to manage the *CS3028 Principles of Software Engineering*/*CS3528 Software Engineering and Professional Practice* project. In it, our group - Group Foxtrot - will be assigned a client and work together to produce a piece of bespoke software for them. This project is intended to strengthen not only our technical skills but also our soft skills.
+This organisation was created to manage the *CS3028 Principles of Software Engineering*/*CS3528 Software Engineering and Professional Practice* project. In it, our group - Group Foxtrot - will work with the National Decommissioning Centre to work on the Simulation Editor for the Marine Simulator. This project is intended to strengthen not only our technical skills but also our soft skills.
 
 ### The Team
 - **Project Manager** -> John Dunbar
