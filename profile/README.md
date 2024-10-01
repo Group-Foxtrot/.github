@@ -21,6 +21,8 @@ The team will be taking the existing simulator scene editor developed by the NDC
 
 ### Developer Housekeeping
 
+#### Feature Implementation
+
 For any new feature to be worked on during a development sprint, an Issue should be raised and associated with the Product Iteration (PI) project, assigned into the backlog to be picked up and/or manually assigned to a developer.
 - **FOXTROT PI 1** is for CS3028 Semester 1 and consists of 4 two-week sprints commencing 03/10/2024.
 - **FOXTROT PI 2** is for CS3528 Semester 2 and consists of 4 two-week sprints commencing TBC.
@@ -41,6 +43,13 @@ After a feature has been implemented in its corresponding Feature Branch, a *Pul
 Once the PR has been reviewed, it will be merged into the main branch, closing the Feature Branch. After this, use `git checkout -b main` to move to the main branch and then run `git pull origin main` to ensure the codebase is fully up-to-date before creating the next Feature Branch.
 
 *If in doubt about anything regarding merging into the main branch, contact either the Project Manager or Product Owner*.
+
+#### Code Standards
+
+To ensure all code being worked on adheres to the same conventions and format, follow the below rules when developing feature code for sprints:
+- **Use Camelcase for function definitions (e.g. exampleFunction())**.
+- **Add a sufficient number of high-quality comments throughout the code to ensure that Documenters can write accurate documentation easily**.
+- **Do not use ambiguous variable names (e.g. x = 0)**.
 
 ### Meeting Schedule
 - *In-Person*: 09:00 - 11:00 BST Thursdays
