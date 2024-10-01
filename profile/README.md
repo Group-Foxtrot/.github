@@ -1,4 +1,4 @@
-# CS3033 Group Foxtrot
+# CS3028 Group Foxtrot
 
 ## Organisation Overview
 This organisation was created to manage the *CS3028 Principles of Software Engineering*/*CS3528 Software Engineering and Professional Practice* project. In it, our group - Group Foxtrot - will work with the National Decommissioning Centre to develop the Simulation Scene Editor for the Marine Simulator. This project is intended to strengthen not only our technical skills but also our soft skills.
