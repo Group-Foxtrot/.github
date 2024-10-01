@@ -9,6 +9,7 @@ This organisation was created to manage the *CS3028 Principles of Software Engin
 - **Developers** -> Abdurrehman Sajid, Archie Mearns, Dylan Cairney, Graham Murray, John Dunbar, Kieran Thursby, Mateusz Templin, Shaelen Fernandes
 - **Testers** -> John Dunbar
 - **Documenters** -> Archie Mearns, Mateusz Templin
+- **QC/QA** -> Shaelen Fernandes
 
 These roles were established and assigned based on each individual's self-identified strengths.
 
