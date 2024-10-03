@@ -53,7 +53,7 @@ To ensure all code being worked on adheres to the same conventions and format, f
 
 ### Meeting Schedule
 - *In-Person*: 09:00 - 11:00 BST Thursdays
-- *Online*: TBC
+- *Online*: 18:00 - 19:00 BST Mondays, 12:00 - 13:00 BST Thursdays, and 14:00 - 15:00 BST Saturdays
 
 ### Team Member Expectations
 To ensure the project runs as efficiently as possible, all team members are expected to adhere to the following list of expectations:
