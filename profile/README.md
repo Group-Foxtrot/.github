@@ -7,7 +7,7 @@ This organisation was created to manage the *CS3028 Principles of Software Engin
 - **Project Manager/SCRUM Master** -> John Dunbar
 - **Product Owner** -> Kieran Thursby
 - **Developers** -> Abdurrehman Sajid, Archie Mearns, Dylan Cairney, John Dunbar, Kieran Thursby, Mateusz Templin, Shaelen Fernandes
-- **Testers** -> John Dunbar
+- **Testers** -> John Dunbar, Dylan Cairney
 - **Documenters** -> Archie Mearns, Mateusz Templin
 - **QC/QA** -> Shaelen Fernandes
 
