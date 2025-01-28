@@ -60,7 +60,7 @@ If a bug is found in a Pull Request, refer to the following:
 
 - **Quality of Life (QOL)** -> These are bugs that do not cause fatal errors in the software and have very specific edge-cases. These should be reported but are not a priority to patch.
 - **Medium Severity Faults (MSF)** -> These are bugs that do cause fatal errors in the software but have very specific edge-cases. These should be reported and be patched by the end of the following sprint.
-- **Critical Severity Faults (CSF)** -> These are bugs that cause fatal erros in the software and can be triggered by a number of actions. These should be reported and be patched within the current sprint with the highest priority.
+- **Critical Severity Faults (CSF)** -> These are bugs that cause fatal errors in the software and can be triggered by a number of actions. These should be reported and be patched within the current sprint with the highest priority.
 
 ### Team Member Expectations
 To ensure the project runs as efficiently as possible, all team members are expected to adhere to the following list of expectations:
