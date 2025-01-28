@@ -34,7 +34,7 @@ In this Feature Branch, developers are encouraged to commit frequently to ensure
 
 After a feature has been implemented in its corresponding Feature Branch, a *Pull Request* should be made in the repository. In this PR, developers should ensure that a sufficiently detailed title is given alongside an in-depth description of the functionality implemented alongside any changes made to existing code (this helps the reviewer determine if there will be any merge conflicts). Automated tests will be carried out through GitHub Actions which will confirm whether the feature works in its entirety. **Do _not_ force merges to the main branch under any circumstances**.
 
-##### Pull Request Reviews
+#### Pull Request Reviews
 
 Pull Requests should be approved or denied based on the following criteria:
 - Proper indentations/whitespace.
@@ -54,7 +54,7 @@ Once the PR has been reviewed, it will be merged into the main branch, closing t
 
 *If in doubt about anything regarding merging into the main branch, contact either the Project Manager or Product Owner*.
 
-##### Bug Reporting
+#### Bug Reporting
 
 If a bug is found in a Pull Request, refer to the following:
 
